@@ -9,7 +9,7 @@ from openpyxl import Workbook, load_workbook
 from openpyxl.utils import get_column_letter
 import tkinter as tk
 from tkinter import Canvas
-#import cv2,os,time
+import cv2,os,time
 from PIL import ImageTk
 import sqlite3
 import dlib
