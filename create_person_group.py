@@ -14,4 +14,4 @@ for personGroup in personGroups:
         sys.exit()
 
 res = CF.person_group.create(personGroupId)
-print(res)
+
